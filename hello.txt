@@ -2,7 +2,3 @@ hello world!hothothot
 hello world!merge
 hello world!
 hello world!
-hello world!
-hello world!
-hello world!
-hello world!
